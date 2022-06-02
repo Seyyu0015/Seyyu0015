@@ -1,7 +1,7 @@
-- 👋 这里是 祀羽（Seyyu）
-- 👀 我是一名软件工程本科在校生，同时也是一名Bilibili的虚拟主播
+- 👋 我是 祀羽Seyyu
+- 👀 我是 一名软件工程本科大三在校生
 - 🌱 正在学习Python
-- 📫 联系我：seyyu0015@163.com | QQ：1509392290（祀羽10）| Bilibili：祀羽Seyyu
+- 📫 联系我 e-mail：seyyu0015@163.com | QQ：1509392290 | 微信：Seyyu0015
 
 <!---
 Seyyu0015/Seyyu0015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
